@@ -5,7 +5,7 @@ body {
     flex-direction: column; /* Stack elements vertically */
     justify-content: center; /* Center content vertically */
     align-items: center; /* Center content horizontally */
-    background-image: url("/img/background.jpg");
+    background-image: url("img/background.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
