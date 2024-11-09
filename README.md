@@ -1,5 +1,5 @@
 # Do-You-Love-Me
-**Interactive I Love You Game 💖**
+**Interactive Love Game 💖**
 
 This is a fun and interactive, responsive web game designed to bring a smile to your face! 🥰
 
