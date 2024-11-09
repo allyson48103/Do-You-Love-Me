@@ -70,8 +70,8 @@ h1 {
     color: rgb(162, 94, 125);
     padding: 15px 32px;
     text-align: center;
-    margin-bottom: 93px;
-    font-size: 34px;
+    margin-bottom: 105px;
+    font-size: 24px;
     opacity: 0; /* Initially hidden */
     pointer-events: none; /* Prevent interaction */
     transition: opacity 0.5s ease-in-out; /* Smooth fade-in effect */
