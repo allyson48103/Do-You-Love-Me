@@ -1,7 +1,7 @@
 # Do-You-Love-Me
-**Interactive Love Game 💖**
+**Interactive Love Message 💖**
 
-This is a fun and interactive, responsive web game designed to bring a smile to your face! 🥰
+This is a fun and interactive, responsive web design designed to bring a smile to your face! 🥰
 
 Here's what it does:
 
