@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Do you love me?</title>
+    <!-- Add Google Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="heart-animation" class="hidden"></div> <!-- Animation container -->
+    <h1>Do You Love Me?</h1>
+    <div class="button-container">
+        <input id="yes-button" type="button" value="YES" onclick="clickYesButton()">
+        <input id="no-button" type="button" value="NO" onmouseover="hoverNoButton()" ontouchstart="hoverNoButton()">
+    </div>
+    <p id="love-message" class="hidden">I love you too Vincy Pooks!</p> <!-- Hidden message -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bodymovin/5.10.2/lottie.min.js"></script>
+    <script src="scripts.js"></script>
+</body>
+</html>
